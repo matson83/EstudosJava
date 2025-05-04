@@ -1,4 +1,4 @@
-package BatismoDoJava;
+package BatismoDoJava.TiposDeDados;
 
 public class DadosNaoPrimitivos {
     public static void main(String[] args) {

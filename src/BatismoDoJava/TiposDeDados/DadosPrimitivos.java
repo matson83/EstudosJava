@@ -1,6 +1,4 @@
-package BatismoDoJava;
-
-import java.util.Scanner;
+package BatismoDoJava.TiposDeDados;
 
 public class DadosPrimitivos {
     public static void main(String[] args) {
