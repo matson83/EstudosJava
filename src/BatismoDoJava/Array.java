@@ -22,6 +22,7 @@ public class Array {
 
 
         System.out.println("Os ninjas escolhidos foram: "+ninjas[0] + "," + ninjas[1] + "," + ninjas[2] + "," + ninjas[3]);
+
         System.out.println("Todos os ninjas são : "+ Arrays.toString(ninjas));
 
 
