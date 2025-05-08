@@ -1,4 +1,4 @@
-package BatismoDoJava.Condicoes;
+package BatismoDoJava.Iniciante.Condicoes;
 
 public class IfEElse {
     public static void main(String[] args) {

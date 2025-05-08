@@ -1,4 +1,4 @@
-package BatismoDoJava;
+package BatismoDoJava.Iniciante;
 
 import java.util.Arrays;
 import java.util.Scanner;

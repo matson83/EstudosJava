@@ -1,4 +1,4 @@
-package BatismoDoJava.Switch;
+package BatismoDoJava.Iniciante.Switch;
 
 import java.util.Scanner;
 

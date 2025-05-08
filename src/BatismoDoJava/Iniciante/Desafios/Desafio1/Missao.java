@@ -1,4 +1,4 @@
-package BatismoDoJava.Desafios.Desafio1;
+package BatismoDoJava.Iniciante.Desafios.Desafio1;
 
 public class Missao {
 

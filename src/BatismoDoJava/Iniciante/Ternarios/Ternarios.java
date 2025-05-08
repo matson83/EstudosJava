@@ -1,4 +1,4 @@
-package BatismoDoJava.Ternarios;
+package BatismoDoJava.Iniciante.Ternarios;
 
 public class Ternarios {
     public static void main(String[] args) {

@@ -1,6 +1,5 @@
-package BatismoDoJava.Desafios.Desafio2;
+package BatismoDoJava.Iniciante.Desafios.Desafio2;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class CadastroDeNinjas {

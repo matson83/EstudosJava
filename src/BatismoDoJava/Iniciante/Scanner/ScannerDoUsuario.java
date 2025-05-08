@@ -1,4 +1,4 @@
-package BatismoDoJava.Scanner;
+package BatismoDoJava.Iniciante.Scanner;
 
 import java.util.Scanner;
 
@@ -6,7 +6,7 @@ public class ScannerDoUsuario {
     public static void main(String[] args) {
         /*
         *
-        * O BatismoDoJava.Scanner traz o usuario para dentro da aplicacao
+        * O BatismoDoJava.Iniciante.Scanner traz o usuario para dentro da aplicacao
         *
         * */
 

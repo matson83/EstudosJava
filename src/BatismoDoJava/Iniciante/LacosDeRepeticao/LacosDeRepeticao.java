@@ -1,4 +1,4 @@
-package BatismoDoJava.LacosDeRepeticao;
+package BatismoDoJava.Iniciante.LacosDeRepeticao;
 
 public class LacosDeRepeticao {
     public static void main(String[] args) {
